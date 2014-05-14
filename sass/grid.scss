@@ -133,16 +133,4 @@
 	.col-7-8 {
 		width: percentage(7/8);
 	}
-}	
-
-@media screen and (min-width: $fullscreen)  {
-	.container {
-		max-width: $fullscreen;
-	}
-}
-
-@media screen and (min-width: $fullscreen)  {
-	.container {
-		max-width: $fullscreen;
-	}
 }
